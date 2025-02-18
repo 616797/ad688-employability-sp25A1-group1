@@ -1,18 +1,18 @@
 ---
 title: "Group 1 - Business Running Case: Evaluating Personal Job Market Prospects in 2024"
+author: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan Vij"  
+date: "2024-02-17"  
+format: html  
+bibliography: references.bib  
+csl: ecnometrica.csl  
+execute:
+  echo: false  
+  warning: false
 ---
-
-RE: RESEARCH RATIONALE STATEMENT
-
-To Whom It May Concern
 
 Boston University Metropolitan College
 
 Professor Nakul Padalkar
-
-February 17, 2025
-
-**Chosen Topic of Research:**
 
 # Business Analytics, Data Science, and Machine Learning Trends
 
@@ -39,12 +39,6 @@ we can revisit and build upon throughout our careers - even as the industry cont
 Sincerely,
 
 **Team 1**
-
-* Moiz Deshmukh
-* Prabu Jayabalan
-* Andrey Pafnutyev
-* Jason Stopas
-* Jitvan Vij
 
 ---
 
