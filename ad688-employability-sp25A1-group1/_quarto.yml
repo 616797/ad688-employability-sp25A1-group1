@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - hand_in_via_pdf/
 
 website:
   title: "Group 1 - Business Running Case: Evaluating Personal Job Market Prospects in 2024"
