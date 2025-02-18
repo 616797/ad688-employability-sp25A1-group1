@@ -4,7 +4,7 @@ author: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan 
 date: "2024-02-17"  
 format: html  
 bibliography: references.bib  
-csl: ecnometrica.csl  
+csl: econometrica.csl  
 execute:
   echo: false  
   warning: false
@@ -95,7 +95,7 @@ are critical skills, particularly for leadership roles in data science and analy
 # Evolving Skill Trends
     
 The increasing integration of machine learning in business analytics suggests a
-convergence between data science and business intelligence roles. Furthermore, automation and
+convergence between data science and business intelligence roles @Umamaheswaranetal2023. Furthermore, automation and
 AI-powered analytics are shaping the future of these professions, emphasizing the need for
 adaptability and continuous learning.
 
