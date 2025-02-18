@@ -3,27 +3,36 @@ title: "Group 1 - Business Running Case: Evaluating Personal Job Market Prospect
 ---
 
 RE: RESEARCH RATIONALE STATEMENT
+
 To Whom It May Concern
 Boston University Metropolitan College
 Professor Nakul Padalkar
 February 17, 2025
-Chosen Topic of Research:
-Business Analytics, Data Science, and Machine Learning Trends
-Rationale:
+
+# Chosen Topic of Research:
+
+## Business Analytics, Data Science, and Machine Learning Trends
+
+# Rationale:
+
 Firstly, on behalf of all of us in Group 1 - welcome.
+
 After careful consideration, we have collectively chosen to focus our research efforts on Business
 Analytics, Data Science, and Machine Learning Trends. The primary motivation for selecting this
 topic is that, in the long run, a deeper understanding of these areas will significantly strengthen our
 professional expertise and career prospects. Among the various research options available, we
 believe this theme holds the greatest potential for long-term impact as we pursue careers in the
 business analytics and data science disciplines.
+
 Our goal is to conduct thorough and insightful research that provides a reliable understanding of
 the industry’s landscape at large. As is outlined in the assignment description, we aim to explore
 the most in-demand skills, examine how job descriptions have evolved in recent years, identify the
 leading employers of both business analysts and data scientists, and to assess the career outlook
 of these roles.
+
 If approached strategically, the exploration will serve as a valuable resource, providing knowledge
 we can revisit and build upon throughout our careers - even as the industry continues to evolve.
+
 Sincerely,
 Team 1
 Moiz Deshmukh
@@ -33,9 +42,10 @@ Jason Stopas
 
 ---
 
-Literature Review: Data Science, Business Analytics, and Machine Learning Trends
+## Literature Review: Data Science, Business Analytics, and Machine Learning Trends
 
-Introduction
+# Introduction
+
 The demand for professionals in data science, business analytics, and machine learning
 (ML) has surged as organizations increasingly rely on data-driven decision-making. Based on
 recent research, the most sought-after skills in these fields can be categorized into technical (hard
@@ -43,61 +53,91 @@ skills) and non-technical (soft skills).
 
 ---
 
-In-Demand Skills for Data Science, Business Analytics, and ML Roles
+# In-Demand Skills for Data Science, Business Analytics, and ML Roles
 
-Hard Skills
+# Hard Skills
 
 Hard skills remain a fundamental requirement for data science, business analytics, and ML
 roles. Key technical competencies include:
+
 • Programming Languages: Python, R, SQL, and Java are among the most demanded
 languages, with Python being particularly crucial for ML and data analytics applications.
+
 • Big Data and Cloud Technologies: Expertise in cloud platforms such as AWS, Azure, and
 Google Cloud, along with tools like Hadoop and Spark, is increasingly valuable.
+
 • Machine Learning & AI: Knowledge of machine learning frameworks such as
 TensorFlow, PyTorch, and Keras, along with expertise in neural networks and deep
 learning, is becoming a core requirement for ML-based roles.
+
 • Data Management and Visualization: Business Intelligence (BI) tools such as Tableau,
 Power BI, and data warehousing techniques are critical for business analytics roles.
+
 • Mathematics & Statistics: A strong grasp of statistics, probability, and mathematical
 modeling is necessary for data-driven roles.
-Soft Skills While technical expertise is crucial, employers also prioritize soft skills that enable
+
+# Soft Skills 
+
+While technical expertise is crucial, employers also prioritize soft skills that enable
 professionals to apply their knowledge effectively:
+    
 • Communication & Stakeholder Management: Business analytics professionals require
 strong communication skills to translate data-driven insights into actionable business
 strategies.
+    
 • Problem-Solving & Critical Thinking: Employers value candidates who can apply
 analytical thinking to solve complex business problems and optimize decision-making
 processes.
+    
 • Teamwork & Leadership: Collaborating across teams and managing projects efficiently
 are critical skills, particularly for leadership roles in data science and analytics.
-Evolving Skill Trends
+
+# Evolving Skill Trends
+    
 The increasing integration of machine learning in business analytics suggests a
 convergence between data science and business intelligence roles. Furthermore, automation and
 AI-powered analytics are shaping the future of these professions, emphasizing the need for
 adaptability and continuous learning.
-References
+
+# References
 • Umamaheswaran, S., Fernandes, S., Venkatesh, V. G., Avula, N., & Shi, Y. (2023). What
 Do Employers Look for in Business Analytics Roles? – A Skill Mining Analysis.
 Information Systems Frontiers. https://doi.org/10.1007/s10796-023-10437-y
+    
 • Musazade, N. (2022). Understanding the relevant skills for data analytics-related
 positions: An empirical study of job advertisements [Master’s thesis].
 https://www.doria.fi/bitstream/handle/10024/184705/musazade_nurlan.pdf
 
-LITERATURE REVIEW (In-Demand Skills continued)
+# LITERATURE REVIEW (In-Demand Skills continued)
+
 The Essential Competencies of Data Scientists: A Framework for Hiring and Training
+
 The article, The Essential Competencies of Data Scientists: A Framework for Hiring and Training by
 Motahareh Zarefard and Nicola Marsden, investigates the skills needed for data scientists in 2024
 and ‘looking’ ahead into the future. As stated in the article, an increasing demand for data
 scientists and a reported difficulty in finding qualified professionals, the authors identify and
 categorize 130 distinct competencies across seven KSAEOs that are deemed to be essential for
 success within the role.
+
 These include: 1) functional, 2) ethical, 3) cognitive, 4) awareness, 5) social, 6) organizational, and
-7) behavioral skills. Functional includes technical skills like machine learning comprehension and
-programing. Ethical covers responsible data usage and compliance. Cognitive includes analytical
-thinking, problem-solving, and creativity. Awareness highlights organizational knowledge, social
-intelligence, and self-awareness. Social covers communication skills, teamwork, and leadership
-skills. Organizational relates to managerial and strategic proficiencies. Lastly, behavioral involves
-adaptableness, resilience, and even mentions the entrepreneurial spirit.
+7) behavioral skills. 
+    
+    1) Functional includes technical skills like machine learning comprehension and
+    programing. 
+
+    2) Ethical covers responsible data usage and compliance. 
+    
+    3) Cognitive includes analytical thinking, problem-solving, and creativity. 
+    
+    4) Awareness highlights organizational knowledge, social intelligence, and self-awareness.
+    
+    5) Social covers communication skills,  teamwork, and leadership skills. 
+    
+    6) Organizational relates to managerial and strategic proficiencies. 
+    
+    7) Lastly, behavioral involves
+       adaptableness, resilience, and even mentions the entrepreneurial spirit.
+    
 The study uses data analytics methods that combine literature review, statistical analysis, and text
 mining to classify and measure the defined skills. By combining information from job postings and
 from within industry, a model is created. The model provides a deeper insight into the
@@ -106,7 +146,8 @@ academic as well). Their conclusions ultimately demonstrate that those who are w
 balance of both technical and non-technical skills] are best positioned to succeed in data analytics
 roles.
 
-Source:
+# Source:
+
 Zarefard, M., & Marsden, N. (2024). The essential competencies of data scientists: A framework for
 hiring and training. In H. Mori & Y. Asahi (Eds.), HCII 2024, LNCS 14691 (pp. 397–418). Springer
 Nature Switzerland. https://doi.org/10.1007/978-3-031-60125-5_27
