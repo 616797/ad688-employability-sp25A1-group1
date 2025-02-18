@@ -44,6 +44,7 @@ Sincerely,
 * Prabu Jayabalan
 * Andrey Pafnutyev
 * Jason Stopas
+* Jitvan Vij
 
 ---
 
