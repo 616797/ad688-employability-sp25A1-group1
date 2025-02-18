@@ -5,15 +5,18 @@ title: "Group 1 - Business Running Case: Evaluating Personal Job Market Prospect
 RE: RESEARCH RATIONALE STATEMENT
 
 To Whom It May Concern
+
 Boston University Metropolitan College
+
 Professor Nakul Padalkar
+
 February 17, 2025
 
-# Chosen Topic of Research:
+**Chosen Topic of Research:**
 
-## Business Analytics, Data Science, and Machine Learning Trends
+# **Business Analytics, Data Science, and Machine Learning Trends**
 
-# Rationale:
+**Rationale:**
 
 Firstly, on behalf of all of us in Group 1 - welcome.
 
@@ -42,9 +45,9 @@ Jason Stopas
 
 ---
 
-## Literature Review: Data Science, Business Analytics, and Machine Learning Trends
+# Literature Review: Data Science, Business Analytics, and Machine Learning Trends
 
-# Introduction
+**Introduction**
 
 The demand for professionals in data science, business analytics, and machine learning
 (ML) has surged as organizations increasingly rely on data-driven decision-making. Based on
@@ -53,43 +56,43 @@ skills) and non-technical (soft skills).
 
 ---
 
-# In-Demand Skills for Data Science, Business Analytics, and ML Roles
+# **In-Demand Skills for Data Science, Business Analytics, and ML Roles**
 
-# Hard Skills
+**Hard Skills**
 
-Hard skills remain a fundamental requirement for data science, business analytics, and ML
+* Hard skills remain a fundamental requirement for data science, business analytics, and ML
 roles. Key technical competencies include:
 
-• Programming Languages: Python, R, SQL, and Java are among the most demanded
+* Programming Languages: Python, R, SQL, and Java are among the most demanded
 languages, with Python being particularly crucial for ML and data analytics applications.
 
-• Big Data and Cloud Technologies: Expertise in cloud platforms such as AWS, Azure, and
+* Big Data and Cloud Technologies: Expertise in cloud platforms such as AWS, Azure, and
 Google Cloud, along with tools like Hadoop and Spark, is increasingly valuable.
 
-• Machine Learning & AI: Knowledge of machine learning frameworks such as
+* Machine Learning & AI: Knowledge of machine learning frameworks such as
 TensorFlow, PyTorch, and Keras, along with expertise in neural networks and deep
 learning, is becoming a core requirement for ML-based roles.
 
-• Data Management and Visualization: Business Intelligence (BI) tools such as Tableau,
+* Data Management and Visualization: Business Intelligence (BI) tools such as Tableau,
 Power BI, and data warehousing techniques are critical for business analytics roles.
 
-• Mathematics & Statistics: A strong grasp of statistics, probability, and mathematical
+* Mathematics & Statistics: A strong grasp of statistics, probability, and mathematical
 modeling is necessary for data-driven roles.
 
-# Soft Skills 
+**Soft Skills** 
 
 While technical expertise is crucial, employers also prioritize soft skills that enable
 professionals to apply their knowledge effectively:
     
-• Communication & Stakeholder Management: Business analytics professionals require
+* Communication & Stakeholder Management: Business analytics professionals require
 strong communication skills to translate data-driven insights into actionable business
 strategies.
     
-• Problem-Solving & Critical Thinking: Employers value candidates who can apply
+* Problem-Solving & Critical Thinking: Employers value candidates who can apply
 analytical thinking to solve complex business problems and optimize decision-making
 processes.
     
-• Teamwork & Leadership: Collaborating across teams and managing projects efficiently
+* Teamwork & Leadership: Collaborating across teams and managing projects efficiently
 are critical skills, particularly for leadership roles in data science and analytics.
 
 # Evolving Skill Trends
@@ -99,12 +102,13 @@ convergence between data science and business intelligence roles. Furthermore, a
 AI-powered analytics are shaping the future of these professions, emphasizing the need for
 adaptability and continuous learning.
 
-# References
-• Umamaheswaran, S., Fernandes, S., Venkatesh, V. G., Avula, N., & Shi, Y. (2023). What
+**References**
+
+* Umamaheswaran, S., Fernandes, S., Venkatesh, V. G., Avula, N., & Shi, Y. (2023). What
 Do Employers Look for in Business Analytics Roles? – A Skill Mining Analysis.
 Information Systems Frontiers. https://doi.org/10.1007/s10796-023-10437-y
     
-• Musazade, N. (2022). Understanding the relevant skills for data analytics-related
+* Musazade, N. (2022). Understanding the relevant skills for data analytics-related
 positions: An empirical study of job advertisements [Master’s thesis].
 https://www.doria.fi/bitstream/handle/10024/184705/musazade_nurlan.pdf
 
