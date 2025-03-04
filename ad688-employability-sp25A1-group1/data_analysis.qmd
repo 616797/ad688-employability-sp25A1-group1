@@ -1,0 +1,20 @@
+---
+title: "Data Analysis"
+subtitle: "Comprehensive Data Cleaning & Exploratory Analysis of Job Market Trends"
+author:
+  - name: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan Vij"
+    affiliations:
+      - id: bu
+        name: Boston University
+        city: Boston
+        state: MA
+          
+bibliography: references.bib
+csl: /home/ubuntu/ad688-employability-sp25A1-group1/econometrica.csl
+
+format: 
+  html:
+    toc: true
+    number-sections: true
+    df-print: paged
+---

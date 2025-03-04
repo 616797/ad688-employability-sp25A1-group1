@@ -1,11 +1,11 @@
 ---
 title: "Research Introduction: Business Analytics, Data Science, and Machine Learning Trends"
-author: "Team 1"
+author: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan Vij"
 date: today
 format: 
   html:
     bibliography: references.bib
-    csl: econometrica.csl
+    csl: /home/ubuntu/ad688-employability-sp25A1-group1/econometrica.csl
     toc: true
 ---
 

@@ -4,7 +4,7 @@ author: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan 
 date: "2024-02-17"  
 format: html  
 bibliography: references.bib  
-csl: econometrica.csl  
+csl: /home/ubuntu/ad688-employability-sp25A1-group1/econometrica.csl 
 execute:
   echo: false  
   warning: false  

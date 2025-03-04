@@ -1,23 +1,19 @@
 project:
   type: website
-  resources:
-    - hand_in_via_pdf/
 
 website:
-  title: "Group 1 - Business Running Case: Evaluating Personal Job Market Prospects in 2024"
+  title: "Job Market Analysis 2024"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: "Home"
+      - href: research_introduction.qmd
+        text: "Research"
+      - href: data_analysis.qmd
+        text: "Data Analysis"
+      - href: career_plan.qmd
+        text: "Career Strategy"
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: cosmo
     toc: true
-
-
-
