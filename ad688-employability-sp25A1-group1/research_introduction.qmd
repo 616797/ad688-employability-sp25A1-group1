@@ -5,7 +5,7 @@ date: today
 format: 
   html:
     bibliography: references.bib
-    csl: /home/ubuntu/ad688-employability-sp25A1-group1/econometrica.csl
+    csl: csl/econometrica.csl
     toc: true
 ---
 
