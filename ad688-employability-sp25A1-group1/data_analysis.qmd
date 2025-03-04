@@ -18,3 +18,23 @@ format:
     number-sections: true
     df-print: paged
 ---
+
+```{python}
+import pandas as pd
+```
+
+```{python}
+df = pd.read_csv("lightcast_job_postings.csv")
+```
+
+```{python}
+print(df.columns)
+```
+
+```{python}
+
+
+
+
+
+```
