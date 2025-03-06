@@ -1,0 +1,45 @@
+---
+title: "Research Introduction: Business Analytics, Data Science, and Machine Learning Trends"
+author: "Moiz Deshmukh, Prabu Jayabalan, Andrey Pafnutyev, Jason Stopas, Jitvan Vij"
+date: today
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---
+
+Below is the rationale statement for our research.
+
+## 📄 Rationale Statement
+
+Firstly, on behalf of all of us in Group 1 - welcome.
+
+After careful consideration, we have collectively chosen to focus our research efforts on Business
+Analytics, Data Science, and Machine Learning Trends. The primary motivation for selecting this
+topic is that, in the long run, a deeper understanding of these areas will significantly strengthen our
+professional expertise and career prospects. Among the various research options available, we
+believe this theme holds the greatest potential for long-term impact as we pursue careers in the
+business analytics and data science disciplines.
+
+Our goal is to conduct thorough and insightful research that provides a reliable understanding of
+the industry’s landscape at large. As is outlined in the assignment description, we aim to explore
+the most in-demand skills, examine how job descriptions have evolved in recent years, identify the
+leading employers of both business analysts and data scientists, and to assess the career outlook
+of these roles.
+
+If approached strategically, the exploration will serve as a valuable resource, providing knowledge
+we can revisit and build upon throughout our careers - even as the industry continues to evolve.
+
+Sincerely,
+
+**Team 1**
+
+* Moiz Deshmukh
+* Prabu Jayabalan
+* Andrey Pafnutyev
+* Jason Stopas
+
+---
+
+[Download the PDF](hand_in_via_pdf/Group_1_rationale_statement.pdf)

@@ -1,0 +1,21 @@
+project:
+  type: website
+
+
+website:
+  title: "Job Market Analysis 2024"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: research_introduction.qmd
+        text: "Research"
+      - href: data_analysis.ipynb
+        text: "Data Analysis"
+      - href: career_plan.qmd
+        text: "Career Strategy"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
