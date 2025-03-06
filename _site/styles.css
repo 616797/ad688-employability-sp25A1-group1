@@ -1,0 +1,93 @@
+/* css styles */
+
+/* resetting some default browser styles to ensure consistency across different browsers */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    padding: 20px;
+    background-color: #f9f9f9; /* Light grey background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #0d85ad; 
+    margin-bottom: 20px;
+    line-height: 1.25;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.75em;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0077cc7b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color: #3f7bb7; /* Dark blue background */
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar a {
+    color: white;
+    padding: 10px;
+    margin: 0 5px;
+}
+
+.navbar a:hover {
+    background-color: #0057b365; /* Slightly lighter blue for hover */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
