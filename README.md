@@ -5,6 +5,7 @@
 - Jason Stopas
 - Prabu Jeybalan 
 - Moiz Deshmukh
+- Jitvan Vij
 
 ## Project Overview
 In this project, we explore how job seekers in 2024 can position themselves effectively in the evolving job market, particularly in **Data Science, Business Analytics, and Machine Learning** roles. Instead of analyzing hiring trends from a recruiter’s perspective, we focus on the **job seeker’s strategy** in a changing landscape shaped by AI adoption, industry demands, and workforce shifts.
