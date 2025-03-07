@@ -21,6 +21,4 @@ format:
     css: styles.css
 
     execute:
-  echo: true
-  eval: true
-  code-fold: true
+      eval: false
