@@ -1,6 +1,18 @@
 project:
   type: website
 
+format:
+  html:
+    theme: cosmo        
+    toc: true              
+    embed-resources: true 
+    css: styles.css        
+
+execute:
+  echo: true
+  eval: true
+  code-fold: true
+
 website:
   title: "Job Market Analysis 2024"
   navbar:
@@ -13,32 +25,5 @@ website:
         text: "Data Analysis"
       - href: career_plan.qmd
         text: "Career Strategy"
-
------------------------------------------------
-
-project:
-  type: website
-
-format:
-  html:
-    theme: cosmo
-    toc: true
-    css: styles.css
-
-execute:
-  echo: true
-  eval: false  # Disable code execution on GitHub Pages
-  code-fold: true
-
-format:
-  html:
-    embed-resources: true 
-
-website:
-  title: "Data Analysis Report"
-  navbar:
-    left:
-      - text: "Home"
-        href: index.qmd
       - text: "Plots"
         href: plots.qmd
