@@ -19,3 +19,8 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
+
+    execute:
+  echo: true
+  eval: true
+  code-fold: true
