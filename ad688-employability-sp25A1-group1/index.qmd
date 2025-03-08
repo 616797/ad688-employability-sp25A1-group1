@@ -6,8 +6,12 @@ format: html
 bibliography: references.bib  
 csl: csl/econometrica.csl
 execute:
-  echo: false  
-  warning: false  
+
+ echo: true
+
+eval: true
+
+code-fold: true  
 
 ---
 
