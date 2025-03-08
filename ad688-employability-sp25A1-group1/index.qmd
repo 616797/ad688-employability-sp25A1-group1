@@ -8,10 +8,8 @@ csl: csl/econometrica.csl
 execute:
 
  echo: true
-
-eval: true
-
-code-fold: true  
+ eval: false
+ code-fold: true
 
 ---
 
