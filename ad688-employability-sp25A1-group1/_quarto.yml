@@ -20,10 +20,21 @@ website:
       - href: index.qmd
         text: "Home"
       - href: research_introduction.qmd
-        text: "Research"
+        text: "Introduction"
       - href: data_analysis.ipynb
         text: "Data Analysis"
       - href: career_plan.qmd
         text: "Career Strategy"
       - href: plots.qmd
         text: "Plots"
+
+      - href: data_cleaning.ipynb
+        text: "Data Cleaning & Exploration"
+      - href: eda.ipynb
+        text: "Exploratory Data Analysis"
+      - href: skill_gap_analysis.ipynb
+        text: "Skill Gap Analysis"
+      - href: ml_methods.ipynb
+        text: "ML Methods"
+      - href: nlp_methods.ipynb
+        text: "NLP Methods"
