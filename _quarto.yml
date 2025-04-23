@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: _site
+  render:
+  - "*.qmd"
+  - "*.ipynb"
+  - "!working_files/individual_analysis_folder/*"
+  - "!working_files/individual_analysis_folder/**/*"
 
 format:
   html:
@@ -30,6 +35,8 @@ website:
         text: "Exploratory Data Analysis"
       - href: skills_gap_analysis.ipynb
         text: "Skill Gap Analysis"
+      - href: career_plan.qmd
+        text: "Career Strategy"  
       - href: ml_methods.ipynb
         text: "ML Methods"
       - href: nlp_methods.ipynb
