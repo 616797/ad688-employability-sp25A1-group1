@@ -37,9 +37,9 @@ website:
         text: "Skill Gap Analysis"
       - href: career_plan.qmd
         text: "Career Strategy"  
-      - href: ml_methods.ipynb
-        text: "ML Methods"
-      - href: nlp_methods.ipynb
-        text: "NLP Methods"
+      - href: ml_supervised.ipynb
+        text: "ML Supervised Method"
+      - href: ml_unsupervised.ipynb
+        text: "ML Unsupervised Method"
 
 metadata-files: ["_metadata.yml"]
