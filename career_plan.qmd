@@ -1,3 +1,94 @@
 ---
 title: "Carrer Plan"
 ---
+
+# Proposing an Improvement Strategy for our Team
+
+---
+
+#### 🔹 **Andrey**
+
+- **Skills to Prioritize Learning**: 
+Power BI, Tableau, SAP Applications
+
+- **Courses or Resources**:
+  - Microsoft Power BI Data Analyst
+  - Introduction to Tableau – UC Davis
+  - SAP Professional Fundamentals
+
+- **Team Collaboration Suggestion**:
+  - Can shadow Jason and Prabu on Excel reporting dashboards.
+  - Organize peer-led walkthroughs with Moiz on Tableau once Moiz completes his course.
+
+---
+
+#### 🔹 **Moiz**
+
+- **Skills to Prioritize Learning**: 
+Python, Power BI, SAP Applications
+
+- **Courses or Resources**:
+  - Python for Everybody – University of Michigan
+  - Power BI for Beginners – Microsoft
+  - Becoming an SAP Professional
+
+- **Team Collaboration Suggestion**:
+  - Pair with Jason to co-develop a dashboard and improve Power BI skills.
+  - Conduct weekly learning swaps with Jitvan to practice Python.
+
+---
+
+#### 🔹 **Jason**
+
+- **Skills to Prioritize Learning**:
+ Power BI, SAP Applications
+
+- **Courses or Resources**:
+  - Microsoft Power BI for Beginners
+  - SAP Technology Consultant – SAP
+
+- **Team Collaboration Suggestion**:
+  - Lead weekly recap sessions on SQL with teammates.
+  - Practice SAP module navigation with Moiz and Andrey after completing the course.
+
+---
+
+#### 🔹 **Prabu**
+
+- **Skills to Prioritize Learning**: 
+SAP Applications
+
+- **Courses or Resources**:
+  - Implementing an SAP Solution
+
+- **Team Collaboration Suggestion**:
+  - Lead a team-wide “SAP Sunday” mini hackathon once a month for hands-on SAP tasks.
+  - Assist others in brushing up Python and Excel via peer mentoring.
+
+---
+
+#### 🔹 **Jitvan**
+
+- **Skills to Prioritize Learning**: 
+Python, Excel, Tableau
+
+- **Courses or Resources**:
+  - Crash Course on Python – Google
+  - Excel Skills for Business – Macquarie University
+  - Data Visualization with Tableau – UC Davis
+
+- **Team Collaboration Suggestion**:
+  - Co-present Tableau project findings with Moiz to practice and receive feedback.
+  - Schedule weekly “code & coffee” Python debugging sessions with the team.
+
+---
+
+### Summary Collaboration Ideas
+
+- Assign a “Skill Champion” for each domain (e.g. SQL – Jason, Tableau – Moiz, Python - Prabu) to mentor others.
+
+- Implement weekly 30-minute peer-learning check-ins.
+
+- Maintain a shared Notion or Google Doc for learning progress, notes, and resources.
+
+- Host monthly demo days to present completed mini-projects using new tools learned.
