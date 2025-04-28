@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/ubuntu/.ssh/ad688-employability-sp25A1-group1-6/.venv
+set -gx VIRTUAL_ENV /home/ubuntu/.ssh/ad688-employability-sp25A1-group1-8/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
