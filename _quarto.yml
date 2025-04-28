@@ -27,8 +27,6 @@ website:
         text: "Home"
       - href: research_introduction.qmd
         text: "Introduction"
-      - href: career_plan.qmd
-        text: "Career Strategy"
       - href: data_cleaning.ipynb
         text: "Data Cleaning & Exploration"
       - href: eda.ipynb
