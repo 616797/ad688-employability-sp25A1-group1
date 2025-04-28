@@ -4777,10 +4777,6 @@ vertical-align: -.125em;
 <span class="menu-text">Introduction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./career_plan.html"> 
-<span class="menu-text">Career Strategy</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./data_cleaning.html" aria-current="page"> 
 <span class="menu-text">Data Cleaning &amp; Exploration</span></a>
   </li>  
@@ -4793,12 +4789,16 @@ vertical-align: -.125em;
 <span class="menu-text">Skill Gap Analysis</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ml_methods.html"> 
-<span class="menu-text">ML Methods</span></a>
+    <a class="nav-link" href="./career_plan.html"> 
+<span class="menu-text">Career Strategy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./nlp_methods.html"> 
-<span class="menu-text">NLP Methods</span></a>
+    <a class="nav-link" href="./ml_supervised.html"> 
+<span class="menu-text">ML Supervised Method</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./ml_unsupervised.html"> 
+<span class="menu-text">ML Unsupervised Method</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -4848,24 +4848,14 @@ vertical-align: -.125em;
 <section id="introduction" class="level1">
 <h1><strong>📌 Introduction</strong></h1>
 <p>In this project, we analyzed the “lightcast_job_postings.csv” dataset, which contains detailed job market information, including job titles, companies, locations, salaries, and various metadata. The dataset initially comprised 131 columns, offering a comprehensive view of job postings and associated attributes for evaluating personal job market prospects in 2024.</p>
-<div id="cell-5" class="cell" data-outputid="4f4aca1e-e728-48cb-f8e8-3e3198206785" data-execution_count="4">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> plotly.express <span class="im">as</span> px</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> missingno <span class="im">as</span> msno</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> wordcloud <span class="im">import</span> WordCloud</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> us</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-<div id="cell-6" class="cell" data-execution_count="5">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">&quot;lightcast_job_postings.csv&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div id="cell-6" class="cell" data-execution_count="3">
 <div class="cell-output cell-output-stderr">
-<pre><code>/tmp/ipykernel_4593/3047231268.py:1: DtypeWarning: Columns (19,30) have mixed types. Specify dtype option on import or set low_memory=False.
-  df = pd.read_csv(&quot;lightcast_job_postings.csv&quot;)</code></pre>
+<pre><code>/tmp/ipykernel_16244/1530828494.py:4: DtypeWarning: Columns (19,30) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(&quot;/home/ubuntu/.ssh/ad688-employability-sp25A1-group1-4/lightcast_jobs_postings.csv&quot;)</code></pre>
 </div>
 </div>
-<div id="cell-7" class="cell" data-execution_count="6">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>df.head()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="6">
+<div id="cell-7" class="cell" data-execution_count="4">
+<div class="cell-output cell-output-display" data-execution_count="4">
 <div>
 
 
@@ -5024,8 +5014,8 @@ vertical-align: -.125em;
 </div>
 </div>
 </div>
-<div id="cell-8" class="cell" data-execution_count="7">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df.shape)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div id="cell-8" class="cell" data-execution_count="5">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(df.shape)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>(72498, 131)</code></pre>
 </div>
@@ -5033,14 +5023,6 @@ vertical-align: -.125em;
 </section>
 <section id="data-cleaning-preprocessing" class="level1">
 <h1><strong>📌 Data Cleaning &amp; Preprocessing</strong></h1>
-<div id="cell-10" class="cell" data-execution_count="8">
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>columns_to_drop <span class="op">=</span> [</span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>    <span class="st">&quot;ID&quot;</span>, <span class="st">&quot;URL&quot;</span>, <span class="st">&quot;ACTIVE_URLS&quot;</span>, <span class="st">&quot;DUPLICATES&quot;</span>, <span class="st">&quot;LAST_UPDATED_TIMESTAMP&quot;</span>,</span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>    <span class="st">&quot;NAICS2&quot;</span>, <span class="st">&quot;NAICS3&quot;</span>, <span class="st">&quot;NAICS4&quot;</span>, <span class="st">&quot;NAICS5&quot;</span>, <span class="st">&quot;NAICS6&quot;</span>,</span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>    <span class="st">&quot;SOC_2&quot;</span>, <span class="st">&quot;SOC_3&quot;</span>, <span class="st">&quot;SOC_5&quot;</span></span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>]</span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>df.drop(columns<span class="op">=</span>columns_to_drop, inplace<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
 <p><strong>To prepare the dataset for analysis, we undertook a thorough data cleaning and preprocessing process, including:</strong></p>
 <ol type="1">
 <li><strong>Dropping Irrelevant Columns:</strong></li>
@@ -5049,9 +5031,7 @@ vertical-align: -.125em;
 <li>We removed columns that were either redundant or not relevant to our analysis. These included unique identifiers (ID), URLs of job postings (URL, ACTIVE_URLS), and columns providing less granular versions of NAICS and SOC codes (NAICS2, SOC_3, etc.).</li>
 <li>The rationale for dropping these columns was to enhance data efficiency and clarity, reduce the dataset size, and focus on the most granular and meaningful data.</li>
 </ul>
-<div id="cell-12" class="cell" data-outputid="1a84c090-2703-441b-c334-936c1b05a210" data-execution_count="9">
-<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Visualize missing data</span></span>
-<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>msno.heatmap(df)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div id="cell-12" class="cell" data-outputid="1a84c090-2703-441b-c334-936c1b05a210" data-execution_count="7">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
@@ -5059,14 +5039,6 @@ vertical-align: -.125em;
 </figure>
 </div>
 </div>
-</div>
-<div id="cell-13" class="cell" data-execution_count="10">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Drop columns with &gt;50% missing values</span></span>
-<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>df.dropna(thresh<span class="op">=</span><span class="bu">len</span>(df) <span class="op">*</span> <span class="fl">0.5</span>, axis<span class="op">=</span><span class="dv">1</span>, inplace<span class="op">=</span><span class="va">True</span>)</span>
-<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Fill missing values safely</span></span>
-<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&quot;NAICS_2022_6&quot;</span>] <span class="op">=</span> df[<span class="st">&quot;NAICS_2022_6&quot;</span>].fillna(df[<span class="st">&quot;NAICS_2022_6&quot;</span>].median())</span>
-<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a>df[<span class="st">&quot;NAICS_2022_6_NAME&quot;</span>] <span class="op">=</span> df[<span class="st">&quot;NAICS_2022_6_NAME&quot;</span>].fillna(<span class="st">&quot;Unknown&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 <ol start="2" type="1">
 <li><strong>Handling Missing Values:</strong></li>
@@ -5076,9 +5048,6 @@ vertical-align: -.125em;
 <li>Additionally, ACTIVE_SOURCES_INFO shows a strong negative correlation with other variables, implying a pattern where missing data in this column might coincide with gaps in others.</li>
 <li>In contrast, columns like MSA, MSA_NAME, and LIGHTCAST_SECTORS have no missing values, providing a reliable foundation for further analysis. Addressing missing data in correlated columns through targeted imputation can prevent bias and enhance the accuracy of our analysis.</li>
 </ul>
-<div id="cell-15" class="cell" data-execution_count="11">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> df.drop_duplicates(subset<span class="op">=</span>[<span class="st">&quot;TITLE&quot;</span>, <span class="st">&quot;COMPANY&quot;</span>, <span class="st">&quot;LOCATION&quot;</span>, <span class="st">&quot;POSTED&quot;</span>], keep<span class="op">=</span><span class="st">&quot;first&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
 <ol start="3" type="1">
 <li><strong>Removing Duplicates:</strong></li>
 </ol>
