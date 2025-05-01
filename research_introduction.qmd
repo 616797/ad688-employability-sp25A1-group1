@@ -9,37 +9,211 @@ format:
     toc: true
 ---
 
-Below is the rationale statement for our research.
+# Introduction
 
-## 📄 Rationale Statement
+The demand for professionals in data science, business analytics, and machine learning
+(ML) has surged as organizations increasingly rely on data-driven decision-making. Based on
+recent research, the most sought-after skills in these fields can be categorized into technical (hard
+skills) and non-technical (soft skills).
 
-Firstly, on behalf of all of us in Group 1 - welcome.
 
-After careful consideration, we have collectively chosen to focus our research efforts on Business
-Analytics, Data Science, and Machine Learning Trends. The primary motivation for selecting this
-topic is that, in the long run, a deeper understanding of these areas will significantly strengthen our
-professional expertise and career prospects. Among the various research options available, we
-believe this theme holds the greatest potential for long-term impact as we pursue careers in the
-business analytics and data science disciplines.
+# In-Demand Skills for Data Science, Business Analytics, and ML Roles
 
-Our goal is to conduct thorough and insightful research that provides a reliable understanding of
-the industry’s landscape at large. As is outlined in the assignment description, we aim to explore
-the most in-demand skills, examine how job descriptions have evolved in recent years, identify the
-leading employers of both business analysts and data scientists, and to assess the career outlook
-of these roles.
+**Hard Skills**
 
-If approached strategically, the exploration will serve as a valuable resource, providing knowledge
-we can revisit and build upon throughout our careers - even as the industry continues to evolve.
+* Hard skills remain a fundamental requirement for data science (Umamaheswaran et al., 2023), business analytics, and ML roles. 
 
-Sincerely,
+**Key technical competencies include:**
 
-**Team 1**
+* Programming Languages: Python, R, SQL, and Java are among the most demanded
+languages, with Python being particularly crucial for ML and data analytics applications.
 
-* Moiz Deshmukh
-* Prabu Jayabalan
-* Andrey Pafnutyev
-* Jason Stopas
+* Big Data and Cloud Technologies: Expertise in cloud platforms such as AWS, Azure, and
+Google Cloud, along with tools like Hadoop and Spark, is increasingly valuable.
 
----
+* Machine Learning & AI: Knowledge of machine learning frameworks such as
+TensorFlow, PyTorch, and Keras, along with expertise in neural networks and deep
+learning, is becoming a core requirement for ML-based roles.
 
-[Download the PDF](working_files/pdf_files/Group_1_rationale_statement.pdf)
+* Data Management and Visualization: Business Intelligence (BI) tools such as Tableau,
+Power BI, and data warehousing techniques are critical for business analytics roles.
+
+* Mathematics & Statistics: A strong grasp of statistics, probability, and mathematical
+modeling is necessary for data-driven roles.
+
+**Soft Skills** 
+
+While technical expertise is crucial (Musazade, N. (2022), employers also prioritize soft skills that enable professionals to apply their knowledge effectively:
+    
+* Communication & Stakeholder Management: Business analytics professionals require
+strong communication skills to translate data-driven insights into actionable business
+strategies.
+    
+* Problem-Solving & Critical Thinking: Employers value candidates who can apply
+analytical thinking to solve complex business problems and optimize decision-making
+processes.
+    
+* Teamwork & Leadership: Collaborating across teams and managing projects efficiently
+are critical skills, particularly for leadership roles in data science and analytics.
+
+
+**Evolving Skill Trends**
+    
+The increasing integration of machine learning in business analytics suggests a
+convergence between data science and business intelligence roles. Furthermore, automation and
+AI-powered analytics are shaping the future of these professions, emphasizing the need for
+adaptability and continuous learning.
+
+
+# The Essential Competencies of Data Scientists: A Framework for Hiring and Training
+
+The article, The Essential Competencies of Data Scientists: A Framework for Hiring and Training by
+Motahareh Zarefard and Nicola Marsden (Zarefard & Marsden, 2024), investigates the skills needed for data scientists in 2024 and ‘looking’ ahead into the future. As stated in the article, an increasing demand for data scientists and a reported difficulty in finding qualified professionals, the authors identify and
+categorize 130 distinct competencies across seven KSAEOs that are deemed to be essential for success within the role.
+
+These include: 1) functional, 2) ethical, 3) cognitive, 4) awareness, 5) social, 6) organizational, and
+7) behavioral skills. 
+    
+* Functional includes technical skills like machine learning comprehension and programing. 
+
+* Ethical covers responsible data usage and compliance. 
+    
+* Cognitive includes analytical thinking, problem-solving, and creativity. 
+    
+* Awareness highlights organizational knowledge, social intelligence, and self-awareness.
+    
+* Social covers communication skills,  teamwork, and leadership skills. 
+    
+* Organizational relates to managerial and strategic proficiencies. 
+    
+* Lastly, behavioral involves adaptableness, resilience, and even mentions the entrepreneurial spirit.
+    
+The study uses data analytics methods that combine literature review, statistical analysis, and text
+mining to classify and measure the defined skills. By combining information from job postings and
+from within industry, a model is created. The model provides a deeper insight into the
+competencies and can be used for optimized training and professional development (plus
+academic as well). Their conclusions ultimately demonstrate that those who are well-rounded [a
+balance of both technical and non-technical skills] are best positioned to succeed in data analytics
+roles.
+
+
+# Evolution of Job Descriptions in 2024 with AI/ML Expertise
+
+According to the article Artificial Intelligence and Employment Transformation: A MultiSector Analysis of Workforce Disruption and Adaptation by Kanagarla Krishna Prasanth Brahmaji
+(2024), job descriptions have evolved significantly in 2024 to reflect the growing demand for
+AI/ML expertise (Kanagarla, 2024). 
+
+**The study highlights the following key changes:**
+
+* Increased Demand for AI/ML Skills: A 75% increase in demand for data analytics skills
+and a 41% gap in AI/ML expertise across various sectors have emerged as critical concerns
+for employers.
+
+* Sector-Specific Evolution: Manufacturing (43% adoption), Financial Services (39%
+implementation), Healthcare (41% growth) show significant AI/ML integration.
+
+* Skill Profile Adjustments: 92% of job roles now require multi-domain digital
+competencies, with cross-functional expertise earning professionals a 45% salary
+premium.
+
+* Training and Development Shifts: A 163% increase in digital skills training programs
+underscores the need for continuous learning.
+
+
+# Industries Hiring the Most Data Scientists and Why
+
+The demand for data scientists has surged across multiple industries as businesses
+increasingly rely on artificial intelligence (AI), machine learning, and big data analytics to drive
+decision-making. According to recent studies, the data science job market is projected to grow by
+35% between 2022 and 2032.
+
+**Key Industries Driving Data Science Hiring**
+
+* Healthcare and Biomedicine: AI-driven medical research and predictive diagnostics are
+expanding (Bzdok et al., 2024), with the healthcare analytics market expected to reach $129.7 billion by 2028.
+
+* Finance and Banking: The financial analytics market, growing at an 11.3% CAGR,
+utilizes data science for fraud detection, risk assessment, and algorithmic trading.
+
+* Technology and AI: The technology sector drives demand for professionals in NLP,
+robotics, and cloud computing, with the AI market projected to hit $2 trillion by 2030.
+
+* Retail and E-commerce: E-commerce companies use AI for supply chain optimization
+and customer personalization, with the market expected to reach $11.1 billion by 2028.
+
+* Government and Public Policy: Data science aids urban planning, national security, and
+policy analysis.
+
+
+# Career Outlook for Business Analytics Professionals
+
+The career outlook for business analytics professionals is exceptionally promising due to
+the growing reliance on data-driven decision-making across industries. Organizations are
+increasingly seeking individuals who can analyze complex datasets to optimize operations and
+support strategic decision-making (Noble Desktop, 2024).
+
+**Factors Influencing Career Growth**
+
+* High Demand Across Industries: Data analytics professionals are in high demand in
+finance, healthcare, technology, and consulting.
+
+* Educational Pathways and Skill Development: Universities are introducing programs to
+address the skill gap.
+
+* Career Advancement Opportunities: Roles such as senior business analyst, project
+manager, and CIO present potential growth paths.
+
+
+# Conclusion
+
+The increasing reliance on data-driven insights is propelling the demand for professionals
+skilled in data science, business analytics, and machine learning. As industries continue to evolve
+with technological advancements, these fields promise robust career prospects and opportunities
+for innovation.
+
+
+# References
+
+* Umamaheswaran, S., Fernandes, S., Venkatesh, V. G., Avula, N., & Shi, Y. (2023). What
+Do Employers Look for in Business Analytics Roles? – A Skill Mining Analysis.
+Information Systems Frontiers. 
+https://doi.org/10.1007/s10796-023-10437-y
+    
+* Musazade, N. (2022). Understanding the relevant skills for data analytics-related
+positions: An empirical study of job advertisements [Master’s thesis].
+https://www.doria.fi/bitstream/handle/10024/184705/musazade_nurlan.pdf
+
+* Zarefard, M., & Marsden, N. (2024). The essential competencies of data scientists: A framework for
+hiring and training. In H. Mori & Y. Asahi (Eds.), HCII 2024, LNCS 14691 (pp. 397–418). Springer
+Nature Switzerland. 
+https://doi.org/10.1007/978-3-031-60125-5_27
+
+* Noble Desktop. (2024). Business Analyst Job Outlook.
+https://www.nobledesktop.com/careers/business-analyst/job-outlook
+
+* Tandfonline. (2024). Trends in Business Analytics Education. Journal of Business
+Analytics, 35(3), 325-376. 
+https://doi.org/10.1080/26939169.2024.2393427
+
+* Sacred Heart University. (2024). Everything You Should Know About the Business
+Analytics Career Path. 
+https://shuconnect.sacredheart.edu/blog/2024/02/09/everythingyou-should-know-about-the-business-analytics-career-path/
+
+* Kanagarla, K. P. B. (2024). Artificial intelligence and employment transformation: A multisector analysis of workforce disruption and adaptation. SSRN Electronic Journal. 
+https://doi.org/10.2139/ssrn.5015970
+
+* Bzdok, D., Thieme, A., Levkovskyy, O., Wren, P., Ray, T., & Reddy, S. (2024). Data
+science opportunities of large language models for neuroscience and biomedicine. Neuron,
+112(1), 1-16. 
+https://doi.org/10.1016/j.neuron.2024.01.016
+
+* Yosifova, A. (2024, February 29). Data scientist job market 2024: Analysis, trends,
+opportunities. 365 Data Science. 
+https://365datascience.com/career-advice/data-scientistjob-market/
+
+* U.S. Bureau of Labor Statistics (BLS). (2024). Occupational Outlook for Data Scientists.
+https://www.bls.gov/ooh/math/data-scientists.htm
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
